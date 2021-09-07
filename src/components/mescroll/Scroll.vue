@@ -9,6 +9,7 @@
   import totop from './mescroll-totop.png'
   import empty from './mescroll-empty.png'
   //创建vue对象
+  //asd
   export default {
     props: {
       upCallback: {
